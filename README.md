@@ -1,5 +1,5 @@
-# 10.2-Business-Case-Netflix--Data-Exploration-and-Visualization
-Scaler DSML: Business Case: Netflix - Data Exploration and Visualization
+# Business-Case-Netflix--Data-Exploration-and-Visualization
+
 # Netflix Data Exploration and Visualization 📊
 
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1280px-Netflix_2015_logo.svg.png)
@@ -49,6 +49,3 @@ To get you started, here are some questions you might consider:
 
 Now that you're armed with questions and a powerful dataset, it's time to embark on your Netflix data exploration journey. Feel free to fork this repository, clone it to your local machine, and start diving into the code and data. Don't forget to share your findings and insights with the community.
 
-Remember, the more we learn from this data, the better we can help Netflix continue to entertain and inspire millions around the world! 🌎🍿
-
-Happy coding! 🚀👨‍💻🎬
